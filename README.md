@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi!👋 About me.. 📜  @efekcss
+I'm a Statistics📊 student at Hacettepe University🏫 with a passion for data science, machine learning and deep learning. I'm creating and getting more knowledge in Python, R, SQL and 'really really' slowly C. Here on GitHub to share my projects, grow my skills, and keep learning -Actually I learn everything that develops and improves me— always building and exploring. Dedication is everything, so keep moving 🎯 ( and also ; I use Arch btw 😄 )
 
 <!--
 **efekcss/efekcss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
