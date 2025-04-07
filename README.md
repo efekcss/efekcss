@@ -10,7 +10,7 @@
 📫 How to reach me: There are must be some links in my profile, I believe u can find it
 ⚡ Fun fact: Some turtles can breathe through their butts! Seriously 😄 Certain freshwater turtles in Australia can absorb oxygen through a special area near their cloaca (a multipurpose opening), allowing them to stay underwater longer. It’s super helpful during hibernation or deep dives! [(Source)](https://en.wikipedia.org/wiki/Fitzroy_River_turtle)
 
-[![efekcss's GitHub stats](https://github-readme-stats.vercel.app/api?username=efekcss&show_icons=true&theme=dark&hide_rank=false)]
+[![efekcss's GitHub stats](https://github-readme-stats.vercel.app/api?username=efekcss&show_icons=true&theme=dark&hide_rank=false)](https://github.com/efekcss)
 
 
 <!--
