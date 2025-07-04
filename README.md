@@ -16,6 +16,14 @@
 
 ---
 
+<!--  Şuanda yorum halinde ancak gerekli branch'i açtıktan sonra ve dosyaları yükledikten sonra yorum halinden çıkar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dkarakay/dkarakay/blob/output/halloween-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dkarakay/dkarakay/blob/output/halloween.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+-->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
